@@ -38,8 +38,11 @@
 - Required Python libraries:  
   ```bash  
   pip install pyttsx3 speechrecognition pyserial  
-  cd heart_monitor_chatbot  
-Acknowledgments 🙌
+  cd heart_monitor_chatbot
+  pyhton main.py
+---
+
+## Acknowledgments 🙌
 OpenAI for chatbot inspiration.
 Arduino community for excellent resources.
 
